@@ -23,6 +23,5 @@ img {
 <body>
 	<h1 style="font-family:verdana">Nuestro Menu Regular</h1>
 	<img src="menu.jpg" alt="menu" style="width:95%;">
-	<h2 style="font-family:verdana">Menu de Brunch</h2>
-	<img src="menubrunch.jpg" alt="menu brunch" style="width:95%;">
+	<h2 style="font-family:verdana">Menu de Brunch Coming Soon!</h2>
 </body>
