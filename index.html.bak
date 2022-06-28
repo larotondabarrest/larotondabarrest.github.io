@@ -21,9 +21,9 @@ img {
 </style>
 </head>
 <body>
-	<h1 style="font-family:verdana">Menu Regular (Miércoles a Domingo desde las 3:00pm)"</h1>
+	<h1 style="font-family:verdana">Menu Regular (Miércoles a Domingo desde las 3:00pm)</h1>
 	<img src="menu.jpg" alt="menu" style="width:95%;">
-	<h2 style="font-family:verdana">Menu de Brunch (Domingos 10:00am - 3:00pm)"</h2>
+	<h2 style="font-family:verdana">Menu de Brunch (Domingos 10:00am - 3:00pm)</h2>
 	<img src="menubrunch.jpg" alt="menu brunch" style="width:95%;">
 	<h2 style="font-family:verdana"> </h2>
 </body>
